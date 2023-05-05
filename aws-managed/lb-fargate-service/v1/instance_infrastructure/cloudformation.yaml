@@ -1,4 +1,4 @@
-#just comment
+#just comment 2
 AWSTemplateFormatVersion: '2010-09-09'
 Description: Deploy a service on AWS Fargate, hosted in a public subnet, and accessible via a load balancer.
 Mappings:
